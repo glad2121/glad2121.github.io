@@ -1,4 +1,2 @@
 theme: jekyll-theme-slate
-markdown: redcarpet
-redcarpet:
-  extensions: ['autolink', 'tables']
+markdown: GFM
