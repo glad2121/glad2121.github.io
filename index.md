@@ -1,4 +1,6 @@
-# I am GLAD!!
+---
+title: I am GLAD!!
+---
 
 ## 仕事関連
 
