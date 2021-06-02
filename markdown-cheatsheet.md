@@ -105,3 +105,10 @@ This is a code block.
 
 ---
 ## 11. 文字修飾
+
+## A. 参考 URL
+
+- kramdown Quick Reference  
+  <https://kramdown.gettalong.org/quickref.html>
+- GitHub Pages themes  
+  <https://github.com/pages-themes>
