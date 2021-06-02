@@ -2,6 +2,11 @@
 title: I am GLAD!!
 ---
 
+## ちょっとしたメモ
+
+- [Markdown チートシート](./markdown-cheatsheet.html)
+
+---
 ## 仕事関連
 
 - オブジェクトの広場  
