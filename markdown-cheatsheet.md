@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: slate-custom
 title: Markdown チートシート
 ---
 
