@@ -5,9 +5,9 @@ title: I am GLAD!!
 ## 仕事関連
 
 - オブジェクトの広場  
-  https://www.ogis-ri.co.jp/otc/hiroba/
+  <https://www.ogis-ri.co.jp/otc/hiroba/>
 - GitHub  
-  https://github.com/glad2121
+  <https://github.com/glad2121>
 
 ---
 ## 著作・翻訳
