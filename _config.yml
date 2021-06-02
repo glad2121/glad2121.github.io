@@ -1,5 +1,5 @@
-theme: jekyll-theme-cayman
-markdown: GFM
+theme: jekyll-theme-slate
+#markdown: GFM
 lang: ja
 title: I am GLAD!!
 description: GLAD!! のホームページへようこそ！
