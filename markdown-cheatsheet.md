@@ -23,4 +23,4 @@ title: Markdown Cheat Sheet
 
 ### 見出し3
 
-<h3>見出し3</h2>
+<h3>見出し3</h3>
