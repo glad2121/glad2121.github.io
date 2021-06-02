@@ -7,7 +7,7 @@ title: I am GLAD!!
 - [Markdown チートシート](./markdown-cheatsheet.html)
 
 ---
-## 仕事関連
+## 仕事関連 (ソフトウェア開発)
 
 - オブジェクトの広場  
   <https://www.ogis-ri.co.jp/otc/hiroba/>
@@ -41,7 +41,10 @@ title: I am GLAD!!
   <https://www.seasar.org/>
 
 ---
-## 趣味関連
+## 音楽関連
+
+---
+## 鉄道・旅行関連
 
 ---
 ## SNS
@@ -77,3 +80,6 @@ title: I am GLAD!!
       <https://www.slideshare.net/glad2121/redmine-ansible-48223729>
 - CppUnit-x  
   <https://ja.osdn.net/projects/cppunit-x/>
+
+---
+## 教育関連
