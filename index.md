@@ -13,6 +13,10 @@ title: I am GLAD!!
   <https://www.ogis-ri.co.jp/otc/hiroba/>
 - GitHub  
   <https://github.com/glad2121>
+    - 文字コード関連の情報  
+      <https://github.com/glad2121/charsets>
+    - ユーティリティ (文字コード・文字列・数値・日時等)  
+      <https://github.com/glad2121/glad-utils>
 
 ---
 ## 著作・翻訳
@@ -22,7 +26,7 @@ title: I am GLAD!!
   <https://www.amazon.co.jp/dp/4873114810>
 - その場でつかえるしっかり学べる UML2.0 (共著、秀和システム、絶版)  
   <https://www.shuwasystem.co.jp/book/4798012394.html>  
-  <https://www.amazon.co.jp/dp/4798012394/>
+  <https://www.amazon.co.jp/dp/4798012394>
 
 ---
 ## コミュニティ
