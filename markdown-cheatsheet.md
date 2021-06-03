@@ -238,6 +238,7 @@ class HelloWorld {
 |-------|:----|:---:|----:|
 |長い行|いろはにほへと|ABCDEFG|1234567|
 |短い行|あいうえお|abc|123|
+{: #mytable .mytable}
 
 ```
 |ヘッダー1|左寄せ|中寄せ|右寄せ|
@@ -293,7 +294,15 @@ class HelloWorld {
 
 **id指定**{: #myid}
 
+```
+**id指定**{: #myid}
+```
+
 **class指定**{: .myclass}
+
+```
+**class指定**{: .myclass}
+```
 
 ## A. 参考 URL
 
