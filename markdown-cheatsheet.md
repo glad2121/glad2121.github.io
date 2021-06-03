@@ -6,31 +6,41 @@ title: Markdown チートシート
 ---
 ## 1. 見出し
 
-# 見出し1
+見出し1
+=======
 
 ```
 見出し1
 =======
 ```
 
+# 見出し1
+
 ```
 # 見出し1
 ```
+
+<h1>見出し1</h1>
 
 ```html
 <h1>見出し1</h1>
 ```
 
-## 見出し2
+見出し2
+-------
 
 ```
 見出し2
 -------
 ```
 
+## 見出し2
+
 ```
 ## 見出し2
 ```
+
+<h2>見出し2</h2>
 
 ```html
 <h2>見出し2</h2>
@@ -42,6 +52,8 @@ title: Markdown チートシート
 ### 見出し3
 ```
 
+<h3>見出し3</h3>
+
 ```html
 <h3>見出し3</h3>
 ```
@@ -51,6 +63,8 @@ title: Markdown チートシート
 ```
 #### 見出し4
 ```
+
+<h4>見出し4</h4>
 
 ```html
 <h4>見出し4</h4>
@@ -62,6 +76,8 @@ title: Markdown チートシート
 ##### 見出し5
 ```
 
+<h5>見出し5</h5>
+
 ```html
 <h5>見出し5</h5>
 ```
@@ -71,6 +87,8 @@ title: Markdown チートシート
 ```
 ###### 見出し6
 ```
+
+<h6>見出し6</h6>
 
 ```html
 <h6>見出し6</h6>
@@ -89,6 +107,10 @@ title: Markdown チートシート
 2つめの段落です。
 ```
 
+<p>1つめの段落です。</p>
+
+<p>2つめの段落です。</p>
+
 ```html
 <p>1つめの段落です。</p>
 
@@ -104,13 +126,19 @@ title: Markdown チートシート
 ---
 ```
 
+***
+
 ```
 ***
 ```
 
+_ _ _
+
 ```
 _ _ _
 ```
+
+<hr>
 
 ```html
 <hr>
@@ -129,14 +157,26 @@ Hello, World!
 ```
 ````
 
+~~~
+Hello, World!
+~~~
+
 ````
 ~~~
 Hello, World!
 ~~~
 ````
 
+    Hello, World!
+
 ```
     Hello, World!
+```
+
+<pre>Hello, World!</pre>
+
+```html
+<pre>Hello, World!</pre>
 ```
 
 ```java
@@ -202,12 +242,26 @@ class HelloWorld {
 - 項目3
 ```
 
+* 項目1
+* 項目2
+    + 項目2-1
+    + 項目2-2
+* 項目3
+
 ```
 * 項目1
 * 項目2
     + 項目2-1
     + 項目2-2
 * 項目3
+```
+
+- [x] タスク1
+- [ ] タスク2
+
+```
+- [x] タスク1
+- [ ] タスク2
 ```
 
 ---
@@ -245,6 +299,7 @@ class HelloWorld {
 |-------|:----|:---:|----:|
 |長い行|いろはにほへと|ABCDEFG|1234567|
 |短い行|あいうえお|abc|123|
+{: #mytable .mytable}
 ```
 
 ---
@@ -274,10 +329,22 @@ class HelloWorld {
 *Itaric*
 ```
 
+<em>Itaric</em>
+
+```html
+<em>Itaric</em>
+```
+
 **太字**
 
 ```
 **太字**
+```
+
+<strong>太字</strong>
+
+```html
+<strong>太字</strong>
 ```
 
 `code`
@@ -286,22 +353,58 @@ class HelloWorld {
 `code`
 ```
 
+<code>code</code>
+
+```html
+<code>code</code>
+```
+
 ~~取消~~
 
 ```
 ~~取消~~
 ```
 
-**id指定**{: #myid}
+<del>取消</del>
+
+```html
+<del>取消</del>
+```
+
+**id 指定**{: #myid}
 
 ```
-**id指定**{: #myid}
+**id 指定**{: #myid}
 ```
 
-**class指定**{: .myclass}
+<span id="myid2">id 指定</span>
+
+```html
+<span id="myid2">id 指定</span>
+```
+
+**class 指定**{: .myclass}
 
 ```
-**class指定**{: .myclass}
+**class 指定**{: .myclass}
+```
+
+<span class="myclass">class 指定</span>
+
+```html
+<span class="myclass">class 指定</span>
+```
+
+**style 指定**{: style="color: red;"}
+
+```
+**style 指定**{: style="color: red;"}
+```
+
+<span style="color: red;">style 指定</span>
+
+```html
+<span style="color: red;">style 指定</span>
 ```
 
 ## A. 参考 URL
