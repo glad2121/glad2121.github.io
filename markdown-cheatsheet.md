@@ -13,6 +13,7 @@ title: Markdown チートシート
 ```
 見出し1
 =======
+{: #header1-1}
 ```
 
 # 見出し1
@@ -20,6 +21,7 @@ title: Markdown チートシート
 
 ```
 # 見出し1
+{: #header1-2}
 ```
 
 <h1>見出し1</h1>
@@ -35,6 +37,7 @@ title: Markdown チートシート
 ```
 見出し2
 -------
+{: #header2-1}
 ```
 
 ## 見出し2
@@ -42,6 +45,7 @@ title: Markdown チートシート
 
 ```
 ## 見出し2
+{: #header2-2}
 ```
 
 <h2>見出し2</h2>
@@ -101,6 +105,8 @@ title: Markdown チートシート
 ---
 ## 2. 段落
 
+### Markdown
+
 1つめの段落です。
 
 2つめの段落です。
@@ -110,6 +116,8 @@ title: Markdown チートシート
 (空行)
 2つめの段落です。
 ```
+
+### HTML
 
 <p>1つめの段落です。</p>
 
@@ -124,11 +132,15 @@ title: Markdown チートシート
 ---
 ## 3. 水平線
 
+### Markdown (ハイフン3個以上)
+
 ---
 
 ```
 ---
 ```
+
+### Markdown (アスタリスク3個以上)
 
 ***
 
@@ -136,11 +148,15 @@ title: Markdown チートシート
 ***
 ```
 
+### Markdown (アンダースコア3個以上)
+
 _ _ _
 
 ```
 _ _ _
 ```
+
+### HTML
 
 <hr>
 
@@ -151,6 +167,8 @@ _ _ _
 ---
 ## 4. コードブロック
 
+### Markdown (バッククォート3個以上)
+
 ```
 Hello, World!
 ```
@@ -161,6 +179,8 @@ Hello, World!
 ```
 ````
 
+### Markdown (チルダ3個以上)
+
 ~~~
 Hello, World!
 ~~~
@@ -170,18 +190,24 @@ Hello, World!
 Hello, World!
 ~~~
 ````
+
+### Markdown (インデント)
 
     Hello, World!
 
 ```
     Hello, World!
 ```
+
+### HTML
 
 <pre>Hello, World!</pre>
 
 ```html
 <pre>Hello, World!</pre>
 ```
+
+### Markdown (プログラミング言語指定)
 
 ```java
 class HelloWorld {
@@ -204,6 +230,8 @@ class HelloWorld {
 ---
 ## 5. 引用
 
+### Markdown
+
 > これは引用文です。
 > > 二重引用文です。
 
@@ -211,6 +239,8 @@ class HelloWorld {
 > これは引用文です。
 > > 二重引用文です。
 ```
+
+### HTML
 
 <blockquote>
   これは引用文です。
@@ -231,6 +261,8 @@ class HelloWorld {
 ---
 ## 6. 順序つきリスト
 
+### Markdown
+
 1. 項目1
 1. 項目2
     1. 項目2-1
@@ -244,6 +276,8 @@ class HelloWorld {
     1. 項目2-2
 1. 項目3
 ```
+
+### HTML
 
 <ol>
   <li>項目1</li>
@@ -272,6 +306,8 @@ class HelloWorld {
 ---
 ## 7. 順序なしリスト
 
+### Markdown (ハイフン)
+
 - 項目1
 - 項目2
     - 項目2-1
@@ -286,6 +322,8 @@ class HelloWorld {
 - 項目3
 ```
 
+### Markdown (アスタリスク または プラス)
+
 * 項目1
 * 項目2
     + 項目2-1
@@ -299,6 +337,8 @@ class HelloWorld {
     + 項目2-2
 * 項目3
 ```
+
+### HTML
 
 <ul>
   <li>項目1</li>
@@ -324,6 +364,8 @@ class HelloWorld {
 </ul>
 ```
 
+### Markdown (タスクリスト)
+
 - [x] タスク1
 - [ ] タスク2
 
@@ -335,6 +377,8 @@ class HelloWorld {
 ---
 ## 8. 定義リスト
 
+### Markdown
+
 用語1
 : 説明1
 : 説明2
@@ -352,6 +396,8 @@ class HelloWorld {
 用語3
 : 説明3
 ```
+
+### HTML
 
 <dl>
   <dt>用語1</dt>
@@ -376,6 +422,8 @@ class HelloWorld {
 ---
 ## 9. テーブル
 
+### Markdown
+
 |ヘッダー1|左寄せ|中寄せ|右寄せ|
 |-------|:----|:---:|----:|
 |長い行|いろはにほへと|ABCDEFG|1234567|
@@ -389,6 +437,8 @@ class HelloWorld {
 |短い行|あいうえお|abc|123|
 {: #mytable .mytable}
 ```
+
+### HTML
 
 <table>
   <thead>
@@ -418,17 +468,23 @@ class HelloWorld {
 ---
 ## 10. リンク
 
+### Markdown
+
 [ホームページ](./index.html)
 
 ```
 [ホームページ](./index.html)
 ```
+
+### HTML
 
 <a href="./index.html">ホームページ</a>
 
 ```html
 <a href="./index.html">ホームページ</a>
 ```
+
+### Markdown (自動リンク)
 
 ホームページ: <https://glad2121.github.io/>
 
@@ -442,6 +498,8 @@ class HelloWorld {
 ---
 ## 12. 文字修飾
 
+### 強調1
+
 *Itaric*
 
 ```
@@ -453,6 +511,8 @@ class HelloWorld {
 ```html
 <em>Itaric</em>
 ```
+
+### 強調2
 
 **太字**
 
@@ -466,6 +526,8 @@ class HelloWorld {
 <strong>太字</strong>
 ```
 
+### コード
+
 `code`
 
 ```
@@ -477,6 +539,8 @@ class HelloWorld {
 ```html
 <code>code</code>
 ```
+
+### 取消
 
 ~~取消~~
 
@@ -490,6 +554,8 @@ class HelloWorld {
 <del>取消</del>
 ```
 
+### id 指定
+
 **id 指定**{: #myid}
 
 ```
@@ -502,6 +568,8 @@ class HelloWorld {
 <span id="myid2">id 指定</span>
 ```
 
+### class 指定
+
 **class 指定**{: .myclass}
 
 ```
@@ -513,6 +581,8 @@ class HelloWorld {
 ```html
 <span class="myclass">class 指定</span>
 ```
+
+### style 指定
 
 **style 指定**{: style="color: red;"}
 
