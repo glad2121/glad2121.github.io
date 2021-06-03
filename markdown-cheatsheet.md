@@ -6,7 +6,7 @@ title: Markdown チートシート
 ---
 ## 1. 見出し
 
-見出し1
+見出し1 {: #header1-1}
 =======
 
 ```
@@ -14,7 +14,7 @@ title: Markdown チートシート
 =======
 ```
 
-# 見出し1
+# 見出し1 {: #header1-2}
 
 ```
 # 見出し1
@@ -26,7 +26,7 @@ title: Markdown チートシート
 <h1>見出し1</h1>
 ```
 
-見出し2
+見出し2 {: #header2-1}
 -------
 
 ```
@@ -34,7 +34,7 @@ title: Markdown チートシート
 -------
 ```
 
-## 見出し2
+## 見出し2 {: #header2-2}
 
 ```
 ## 見出し2
@@ -208,6 +208,22 @@ class HelloWorld {
 > > 二重引用文です。
 ```
 
+<blockquote>
+  これは引用文です。
+  <blockquote>
+    二重引用文です。
+  </blockquote>
+</blockquote>
+
+```html
+<blockquote>
+  これは引用文です。
+  <blockquote>
+    二重引用文です。
+  </blockquote>
+</blockquote>
+```
+
 ---
 ## 6. 順序つきリスト
 
@@ -223,6 +239,30 @@ class HelloWorld {
     1. 項目2-1
     1. 項目2-2
 1. 項目3
+```
+
+<ol>
+  <li>項目1</li>
+  <li>項目2
+    <ol>
+      <li>項目2-1</li>
+      <li>項目2-2</li>
+    </ol>
+  </li>
+  <li>項目3</li>
+</ol>
+
+```html
+<ol>
+  <li>項目1</li>
+  <li>項目2
+    <ol>
+      <li>項目2-1</li>
+      <li>項目2-2</li>
+    </ol>
+  </li>
+  <li>項目3</li>
+</ol>
 ```
 
 ---
@@ -256,6 +296,30 @@ class HelloWorld {
 * 項目3
 ```
 
+<ul>
+  <li>項目1</li>
+  <li>項目2
+    <ul>
+      <li>項目2-1</li>
+      <li>項目2-2</li>
+    </ul>
+  </li>
+  <li>項目3</li>
+</ul>
+
+```html
+<ul>
+  <li>項目1</li>
+  <li>項目2
+    <ul>
+      <li>項目2-1</li>
+      <li>項目2-2</li>
+    </ul>
+  </li>
+  <li>項目3</li>
+</ul>
+```
+
 - [x] タスク1
 - [ ] タスク2
 
@@ -285,6 +349,26 @@ class HelloWorld {
 : 説明3
 ```
 
+<dl>
+  <dt>用語1</dt>
+  <dd>説明1</dd>
+  <dd>説明2</dd>
+  <dt>用語2</dt>
+  <dt>用語3</dt>
+  <dd>説明3</dd>
+</dl>
+
+```html
+<dl>
+  <dt>用語1</dt>
+  <dd>説明1</dd>
+  <dd>説明2</dd>
+  <dt>用語2</dt>
+  <dt>用語3</dt>
+  <dd>説明3</dd>
+</dl>
+```
+
 ---
 ## 9. テーブル
 
@@ -302,6 +386,31 @@ class HelloWorld {
 {: #mytable .mytable}
 ```
 
+<table>
+  <thead>
+    <tr>
+      <th>ヘッダー1</th>
+      <th style="text-align: left">左寄せ</th>
+      <th style="text-align: center">中寄せ</th>
+      <th style="text-align: right">右寄せ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>長い行</td>
+      <td style="text-align: left">いろはにほへと</td>
+      <td style="text-align: center">ABCDEFG</td>
+      <td style="text-align: right">1234567</td>
+    </tr>
+    <tr>
+      <td>短い行</td>
+      <td style="text-align: left">あいうえお</td>
+      <td style="text-align: center">abc</td>
+      <td style="text-align: right">123</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 ## 10. リンク
 
@@ -309,6 +418,12 @@ class HelloWorld {
 
 ```
 [ホームページ](./index.html)
+```
+
+<a href="./index.html">ホームページ</a>
+
+```html
+<a href="./index.html">ホームページ</a>
 ```
 
 ホームページ: <https://glad2121.github.io/>
