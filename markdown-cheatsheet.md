@@ -269,11 +269,17 @@ class HelloWorld {
 **太字**
 ```
 
+`コード `
+
 ~~取消~~
 
 ```
 ~~取消~~
 ```
+
+id指定 {: #myid}
+
+class指定 {: .myclass}
 
 ## A. 参考 URL
 
