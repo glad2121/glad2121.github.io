@@ -221,6 +221,16 @@ class HelloWorld {
 用語3
 : 説明3
 
+```
+用語1
+: 説明1
+: 説明2
+
+用語2
+用語3
+: 説明3
+```
+
 ---
 ## 9. テーブル
 
@@ -269,7 +279,11 @@ class HelloWorld {
 **太字**
 ```
 
-`コード `
+`code`
+
+```
+`code`
+```
 
 ~~取消~~
 
@@ -277,9 +291,9 @@ class HelloWorld {
 ~~取消~~
 ```
 
-id指定 {: #myid}
+**id指定**{: #myid}
 
-class指定 {: .myclass}
+**class指定**{: .myclass}
 
 ## A. 参考 URL
 
