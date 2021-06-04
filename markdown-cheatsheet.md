@@ -207,7 +207,7 @@ Hello, World!
 <pre>Hello, World!</pre>
 ```
 
-### Markdown (プログラミング言語指定)
+### Markdown (シンタックスハイライト)
 
 ```java
 class HelloWorld {
@@ -443,10 +443,13 @@ class HelloWorld {
 <table>
   <thead>
     <tr>
-      <th>ヘッダー1</th>
-      <th style="text-align: left">左寄せ</th>
-      <th style="text-align: center">中寄せ</th>
-      <th style="text-align: right">右寄せ</th>
+      <th rowspan="2">ヘッダー1</th>
+      <th colspan="3">整列</th>
+    </tr>
+    <tr>
+      <th>左寄せ</th>
+      <th>中央寄せ</th>
+      <th>右寄せ</th>
     </tr>
   </thead>
   <tbody>
@@ -506,6 +509,12 @@ class HelloWorld {
 *Itaric*
 ```
 
+_Itaric_
+
+```
+_Itaric_
+```
+
 <em>Itaric</em>
 
 ```html
@@ -518,6 +527,12 @@ class HelloWorld {
 
 ```
 **太字**
+```
+
+__太字__
+
+```
+__太字__
 ```
 
 <strong>太字</strong>
@@ -601,6 +616,14 @@ class HelloWorld {
 
 ---
 ## 14. 改行
+
+1行目です。  
+2行目です。
+
+```
+1行目です。(空白2つ)
+2行目です。
+```
 
 ---
 ## A. 参考 URL
