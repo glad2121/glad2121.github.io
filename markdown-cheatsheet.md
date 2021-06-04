@@ -443,13 +443,13 @@ class HelloWorld {
 <table>
   <thead>
     <tr>
-      <th rowspan="2">ヘッダー1</th>
-      <th colspan="3">整列</th>
+      <th rowspan="2" style="vertical-align: middle">ヘッダー1</th>
+      <th colspan="3" style="text-align: center">整列</th>
     </tr>
     <tr>
-      <th>左寄せ</th>
-      <th>中央寄せ</th>
-      <th>右寄せ</th>
+      <th style="text-align: center">左寄せ</th>
+      <th style="text-align: center">中央寄せ</th>
+      <th style="text-align: center">右寄せ</th>
     </tr>
   </thead>
   <tbody>
@@ -467,6 +467,36 @@ class HelloWorld {
     </tr>
   </tbody>
 </table>
+
+```html
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2" style="vertical-align: middle">ヘッダー1</th>
+      <th colspan="3" style="text-align: center">整列</th>
+    </tr>
+    <tr>
+      <th style="text-align: center">左寄せ</th>
+      <th style="text-align: center">中央寄せ</th>
+      <th style="text-align: center">右寄せ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>長い行</td>
+      <td style="text-align: left">いろはにほへと</td>
+      <td style="text-align: center">ABCDEFG</td>
+      <td style="text-align: right">1234567</td>
+    </tr>
+    <tr>
+      <td>短い行</td>
+      <td style="text-align: left">あいうえお</td>
+      <td style="text-align: center">abc</td>
+      <td style="text-align: right">123</td>
+    </tr>
+  </tbody>
+</table>
+```
 
 ---
 ## 10. 画像
