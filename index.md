@@ -28,6 +28,9 @@ title: I am GLAD!!
   <https://www.shuwasystem.co.jp/book/4798012394.html>  
   <https://www.amazon.co.jp/dp/4798012394>
 
+![ProgrammingScala](images/ProgrammingScala.jpg)
+![UML2.0](images/UML2.0.jpg)
+
 ---
 ## コミュニティ
 
