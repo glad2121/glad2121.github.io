@@ -501,6 +501,14 @@ class HelloWorld {
 ---
 ## 10. 画像
 
+### Markdown
+
+![I am GLAD!!](images/IamGLAD!!.png)
+
+```
+![I am GLAD!!](images/IamGLAD!!.png)
+```
+
 ---
 ## 11. リンク
 
