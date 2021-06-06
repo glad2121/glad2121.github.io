@@ -509,6 +509,14 @@ class HelloWorld {
 ![I am GLAD!!](images/IamGLAD!!.png)
 ```
 
+### HTML
+
+<img src="images/IamGLAD!!.png" alt="I am GLAD!!">
+
+```html
+<img src="images/IamGLAD!!.png" alt="I am GLAD!!">
+```
+
 ---
 ## 11. リンク
 
