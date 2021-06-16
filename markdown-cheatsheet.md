@@ -503,18 +503,18 @@ class HelloWorld {
 
 ### Markdown
 
-![I am GLAD!!](images/IamGLAD!!.png)
+![I am GLAD!!](images/IamGLAD!!.png "タイトル")
 
 ```
-![I am GLAD!!](images/IamGLAD!!.png)
+![I am GLAD!!](images/IamGLAD!!.png "タイトル")
 ```
 
 ### HTML
 
-<img src="images/IamGLAD!!.png" alt="I am GLAD!!">
+<img src="images/IamGLAD!!.png" alt="I am GLAD!!" title="タイトル">
 
 ```html
-<img src="images/IamGLAD!!.png" alt="I am GLAD!!">
+<img src="images/IamGLAD!!.png" alt="I am GLAD!!" title="タイトル">
 ```
 
 ---
@@ -522,18 +522,18 @@ class HelloWorld {
 
 ### Markdown
 
-[ホームページ](./index.html)
+[ホームページ](./index.html "タイトル")
 
 ```
-[ホームページ](./index.html)
+[ホームページ](./index.html "タイトル")
 ```
 
 ### HTML
 
-<a href="./index.html">ホームページ</a>
+<a href="./index.html" title="タイトル">ホームページ</a>
 
 ```html
-<a href="./index.html">ホームページ</a>
+<a href="./index.html" title="タイトル">ホームページ</a>
 ```
 
 ### Markdown (自動リンク)
