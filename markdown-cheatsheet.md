@@ -592,6 +592,12 @@ Markdown から HTML を生成します。
 *[HTML]: Hyper Text Markup Language
 ```
 
+<abbr title="Cascading Style Sheets">CSS</abbr> でスタイルを指定します。
+
+```html
+<abbr title="Cascading Style Sheets">CSS</abbr> でスタイルを指定します。
+```
+
 ### 脚注
 
 脚注付きの文章です[^1]。
@@ -727,3 +733,5 @@ __太字__
   <https://kramdown.gettalong.org/quickref.html>
 - GitHub Pages themes  
   <https://github.com/pages-themes>
+
+---
