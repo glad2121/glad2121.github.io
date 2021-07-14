@@ -11,6 +11,9 @@ title: I am GLAD!!
 
 - オブジェクトの広場  
   <https://www.ogis-ri.co.jp/otc/hiroba/>
+    - (プログラマのための) いまさら聞けない標準規格の話  
+      <https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/>
+        - [第1回 文字コード概要編](https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/part1.html) (2021-07-14)
 - GitHub  
   <https://github.com/glad2121>
     - 文字コード関連の情報  
