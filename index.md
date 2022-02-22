@@ -14,6 +14,8 @@ title: I am GLAD!!
     - (プログラマのための) いまさら聞けない標準規格の話  
       <https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/>
         - [第1回 文字コード概要編](https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/part1.html) (2021-07-14)
+        - [第2回 文字コード実践編](https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/part2.html) (2021-08-19)
+        - [第3回 ローマ字編](https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/part3.html) (2022-02-21)
 - GitHub  
   <https://github.com/glad2121>
     - 文字コード関連の情報  
