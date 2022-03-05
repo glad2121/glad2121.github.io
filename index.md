@@ -78,8 +78,8 @@ title: I am GLAD!!
     - <https://glad2121.hatenablog.com/> (音楽関連)
 - はてなブックマーク
     - <https://b.hatena.ne.jp/aufheben/>
-- Facebook
 - Instagram
+- Facebook
 - mixi
 - YouTube
     - <https://www.youtube.com/channel/UChq8VCkyI1EGhyWJhZPHtnw>
