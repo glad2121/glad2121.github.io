@@ -723,7 +723,7 @@ __太字__
 ```
 
 ---
-## A. 参考 URL
+## A. 参考文献・URL
 
 - kramdown Quick Reference  
   <https://kramdown.gettalong.org/quickref.html>
