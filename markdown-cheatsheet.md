@@ -3,6 +3,8 @@ layout: slate-custom
 title: Markdown チートシート
 ---
 
+[ホームページ](./)
+
 ---
 ## 1. 見出し
 
