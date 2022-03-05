@@ -68,6 +68,11 @@ title: I am GLAD!!
 - Twitter
     - <https://twitter.com/glad2121> (本垢)
     - <https://twitter.com/glad_lgm> (音楽関連)
+    - <https://twitter.com/glad_ssw> (SSW 関連)
+- Twilog
+    - <https://twilog.org/glad2121> (本垢)
+    - <https://twilog.org/glad_lgm> (音楽関連)
+    - <https://twilog.org/glad_ssw> (SSW 関連)
 - はてなブログ
     - <https://aufheben.hatenadiary.com/> (仕事関連)
     - <https://glad2121.hatenablog.com/> (音楽関連)
@@ -76,6 +81,9 @@ title: I am GLAD!!
 - Facebook
 - Instagram
 - mixi
+- YouTube
+    - <https://www.youtube.com/channel/UChq8VCkyI1EGhyWJhZPHtnw>
+    - <https://www.youtube.com/channel/UCGaLc21MNtdowk3k2rxISHQ>
 
 ---
 ## ちょっと古いもの
