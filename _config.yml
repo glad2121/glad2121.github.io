@@ -5,3 +5,5 @@ plugins:
 lang: ja
 title: I am GLAD!!
 description: GLAD!! のホームページへようこそ！
+
+theme: jekyll-theme-slate
