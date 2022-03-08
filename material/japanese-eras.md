@@ -1,5 +1,5 @@
 ---
-layout: slate-custom
+layout: simple
 title: 日本の元号
 ---
 
