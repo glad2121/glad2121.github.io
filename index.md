@@ -4,8 +4,9 @@ title: I am GLAD!!
 
 ## ちょっとしたメモ
 
-- [Markdown チートシート](./markdown-cheatsheet.html)
-- [日本の暦](./material/japanese-calendar.html)
+- [Markdown チートシート](./markdown-cheatsheet)
+- [日本の暦](./material/japanese-calendar)
+- [日本の元号](./material/japanese-eras)
 
 ---
 ## 仕事関連 (ソフトウェア開発)
