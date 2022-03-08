@@ -1,9 +1,21 @@
 ---
-layout: slate-custom
-title: 日本の暦
+layout: simple
 ---
 
+<style>
+table {
+  border-collapse: collapse;
+}
+th, td {
+  font-size: small;
+  padding: 10px;
+  border: solid 1px;
+}
+</style>
+
 [ホームページ](../)
+
+# 日本の暦
 
 ## 年号対照表
 
@@ -167,7 +179,6 @@ title: 日本の暦
 |2023年| － |癸卯|明治156年|大正112年|昭和98年|平成35年|令和 5年|    |
 |2024年|閏年|甲辰|明治157年|大正113年|昭和99年|平成36年|令和 6年|    |
 |2025年| － |乙巳|明治158年|大正114年|昭和100年|平成37年|令和 7年|    |
-{: style="font-size: small; width: calc(100% + 200px); margin: 0 -100px;"}
 
 ## 参考文献・URL
 
