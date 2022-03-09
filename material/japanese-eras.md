@@ -7,7 +7,7 @@ table {
   border-collapse: collapse;
 }
 th, td {
-  font-size: small;
+  font-size: x-small;
   padding: 10px;
   border: solid 1px;
 }
