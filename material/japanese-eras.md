@@ -277,5 +277,9 @@ th, td {
 
 ## 参考文献・URL
 
+- 元号一覧 (日本) - Wikipedia  
+  <https://ja.wikipedia.org/wiki/%E5%85%83%E5%8F%B7%E4%B8%80%E8%A6%A7_(%E6%97%A5%E6%9C%AC)>
+- 年号（元号）一覧表 - 熊本国府高等学校  
+  <http://www.kumamotokokufu-h.ed.jp/kumamoto/bungaku/nengoui.html>
 - 元号コード - SuikaWiki  
   <https://wiki.suikawiki.org/n/%E5%85%83%E5%8F%B7%E3%82%B3%E3%83%BC%E3%83%89>
