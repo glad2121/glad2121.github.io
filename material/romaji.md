@@ -24,13 +24,13 @@ th, td {
 <table>
   <tbody>
     <tr>
-      <td></td>
+      <th rowspan="2"></th>
       <td>ア</td>
       <td>イ</td>
       <td>ウ</td>
       <td>エ</td>
       <td>オ</td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -38,7 +38,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>a</td>
       <td>i</td>
       <td>u</td>
@@ -49,16 +48,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td>y</td>
+      <th rowspan="2">y</th>
       <td>ヤ</td>
       <td></td>
       <td>ユ</td>
       <td>イェ</td>
       <td>ヨ</td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -66,7 +64,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>ya</td>
       <td></td>
       <td>yu</td>
@@ -77,16 +74,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td>w</td>
+      <th rowspan="2">w</th>
       <td>ワ/ウァ</td>
       <td>ヰ/ウィ</td>
       <td></td>
       <td>ヱ/ウェ</td>
       <td>ヲ/ウォ</td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -94,7 +90,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>wa</td>
       <td>wi</td>
       <td></td>
@@ -105,16 +100,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td>k</td>
+      <th rowspan="2">k</th>
       <td>カ</td>
       <td>キ</td>
       <td>ク</td>
       <td>ケ</td>
       <td>コ</td>
-      <td>g</td>
+      <th rowspan="2">g</th>
       <td>ガ</td>
       <td>ギ</td>
       <td>グ</td>
@@ -122,13 +116,11 @@ th, td {
       <td>ゴ</td>
     </tr>
     <tr>
-      <td></td>
       <td>ka</td>
       <td>ki</td>
       <td>ku</td>
       <td>ke</td>
       <td>ko</td>
-      <td></td>
       <td>ga</td>
       <td>gi</td>
       <td>gu</td>
@@ -136,13 +128,13 @@ th, td {
       <td>go</td>
     </tr>
     <tr>
-      <td>ky</td>
+      <th rowspan="2">ky</th>
       <td>キャ</td>
       <td></td>
       <td>キュ</td>
       <td>キェ</td>
       <td>キョ</td>
-      <td>gy</td>
+      <th rowspan="2">gy</th>
       <td>ギャ</td>
       <td></td>
       <td>ギュ</td>
@@ -150,13 +142,11 @@ th, td {
       <td>ギョ</td>
     </tr>
     <tr>
-      <td></td>
       <td>kya</td>
       <td></td>
       <td>kyu</td>
       <td>kye</td>
       <td>kyo</td>
-      <td></td>
       <td>gya</td>
       <td></td>
       <td>gyu</td>
@@ -164,13 +154,13 @@ th, td {
       <td>gyo</td>
     </tr>
     <tr>
-      <td>kw</td>
+      <th rowspan="2">kw</th>
       <td>クヮ/クァ</td>
       <td>クィ</td>
       <td></td>
       <td>クェ</td>
       <td>クォ</td>
-      <td>gw</td>
+      <th rowspan="2">gw</th>
       <td>グヮ/グァ</td>
       <td>グィ</td>
       <td></td>
@@ -178,13 +168,11 @@ th, td {
       <td>グォ</td>
     </tr>
     <tr>
-      <td></td>
       <td>kwa</td>
       <td>kwi</td>
       <td></td>
       <td>kwe</td>
       <td>kwo</td>
-      <td></td>
       <td>gwa</td>
       <td>gwi</td>
       <td></td>
@@ -192,13 +180,13 @@ th, td {
       <td>gwo</td>
     </tr>
     <tr>
-      <td>s</td>
+      <th rowspan="2">s</th>
       <td>サ</td>
       <td>スィ</td>
       <td>ス</td>
       <td>セ</td>
       <td>ソ</td>
-      <td>z</td>
+      <th rowspan="2">z</th>
       <td>ザ</td>
       <td>ズィ</td>
       <td>ズ</td>
@@ -206,13 +194,11 @@ th, td {
       <td>ゾ</td>
     </tr>
     <tr>
-      <td></td>
       <td>sa</td>
       <td>si</td>
       <td>su</td>
       <td>se</td>
       <td>so</td>
-      <td></td>
       <td>za</td>
       <td>zi</td>
       <td>zu</td>
@@ -220,13 +206,13 @@ th, td {
       <td>zo</td>
     </tr>
     <tr>
-      <td>sh</td>
+      <th rowspan="2">sh</th>
       <td>シャ</td>
       <td>シ</td>
       <td>シュ</td>
       <td>シェ</td>
       <td>ショ</td>
-      <td>j</td>
+      <th rowspan="2">j</th>
       <td>ジャ</td>
       <td>ジ</td>
       <td>ジュ</td>
@@ -234,13 +220,11 @@ th, td {
       <td>ジョ</td>
     </tr>
     <tr>
-      <td></td>
       <td>sha</td>
       <td>shi</td>
       <td>shu</td>
       <td>she</td>
       <td>sho</td>
-      <td></td>
       <td>ja</td>
       <td>ji</td>
       <td>ju</td>
@@ -248,13 +232,13 @@ th, td {
       <td>jo</td>
     </tr>
     <tr>
-      <td>t</td>
+      <th rowspan="2">t</th>
       <td>タ</td>
       <td>ティ</td>
       <td>トゥ</td>
       <td>テ</td>
       <td>ト</td>
-      <td>d</td>
+      <th rowspan="2">d</th>
       <td>ダ</td>
       <td>ディ</td>
       <td>ドゥ</td>
@@ -262,13 +246,11 @@ th, td {
       <td>ド</td>
     </tr>
     <tr>
-      <td></td>
       <td>ta</td>
       <td>ti</td>
       <td>tu</td>
       <td>te</td>
       <td>to</td>
-      <td></td>
       <td>da</td>
       <td>di</td>
       <td>du</td>
@@ -276,13 +258,13 @@ th, td {
       <td>do</td>
     </tr>
     <tr>
-      <td>ty</td>
+      <th rowspan="2">ty</th>
       <td>テャ</td>
       <td></td>
       <td>テュ</td>
       <td>ティェ</td>
       <td>テョ</td>
-      <td>dy</td>
+      <th rowspan="2">dy</th>
       <td>デャ</td>
       <td></td>
       <td>デュ</td>
@@ -290,13 +272,11 @@ th, td {
       <td>デョ</td>
     </tr>
     <tr>
-      <td></td>
       <td>tya</td>
       <td></td>
       <td>tyu</td>
       <td>tye</td>
       <td>tyo</td>
-      <td></td>
       <td>dya</td>
       <td></td>
       <td>dyu</td>
@@ -304,13 +284,13 @@ th, td {
       <td>dyo</td>
     </tr>
     <tr>
-      <td>ts</td>
+      <th rowspan="2">ts</th>
       <td>ツァ</td>
       <td>ツィ</td>
       <td>ツ</td>
       <td>ツェ</td>
       <td>ツォ</td>
-      <td>(dz)</td>
+      <th rowspan="2">(dz)</th>
       <td>ヅァ</td>
       <td>ヅィ</td>
       <td>ヅ</td>
@@ -318,13 +298,11 @@ th, td {
       <td>ヅォ</td>
     </tr>
     <tr>
-      <td></td>
       <td>tsa</td>
       <td>tsi</td>
       <td>tsu</td>
       <td>tse</td>
       <td>tso</td>
-      <td></td>
       <td>(dza)</td>
       <td>(dzi)</td>
       <td>(dzu)</td>
@@ -332,13 +310,13 @@ th, td {
       <td>(dzo)</td>
     </tr>
     <tr>
-      <td>ch</td>
+      <th rowspan="2">ch</th>
       <td>チャ</td>
       <td>チ</td>
       <td>チュ</td>
       <td>チェ</td>
       <td>チョ</td>
-      <td>(dj)</td>
+      <th rowspan="2">(dj)</th>
       <td>ヂャ</td>
       <td>ヂ</td>
       <td>ヂュ</td>
@@ -346,13 +324,11 @@ th, td {
       <td>ヂョ</td>
     </tr>
     <tr>
-      <td></td>
       <td>cha</td>
       <td>chi</td>
       <td>chu</td>
       <td>che</td>
       <td>cho</td>
-      <td></td>
       <td>(dja)</td>
       <td>(dji)</td>
       <td>(dju)</td>
@@ -360,13 +336,13 @@ th, td {
       <td>(djo)</td>
     </tr>
     <tr>
-      <td>n</td>
+      <th rowspan="2">n</th>
       <td>ナ</td>
       <td>ニ</td>
       <td>ヌ</td>
       <td>ネ</td>
       <td>ノ</td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -374,7 +350,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>na</td>
       <td>ni</td>
       <td>nu</td>
@@ -385,16 +360,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td>ny</td>
+      <th rowspan="2">ny</th>
       <td>ニャ</td>
       <td></td>
       <td>ニュ</td>
       <td>ニェ</td>
       <td>ニョ</td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -402,7 +376,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>nya</td>
       <td></td>
       <td>nyu</td>
@@ -413,16 +386,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td>m</td>
+      <th rowspan="2">m</th>
       <td>マ</td>
       <td>ミ</td>
       <td>ム</td>
       <td>メ</td>
       <td>モ</td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -430,7 +402,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>ma</td>
       <td>mi</td>
       <td>mu</td>
@@ -441,16 +412,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td>my</td>
+      <th rowspan="2">my</th>
       <td>ミャ</td>
       <td></td>
       <td>ミュ</td>
       <td>ミェ</td>
       <td>ミョ</td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -458,7 +428,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>mya</td>
       <td></td>
       <td>myu</td>
@@ -469,16 +438,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>p</td>
+      <th rowspan="2">p</th>
       <td>パ</td>
       <td>ピ</td>
       <td>プ</td>
@@ -491,8 +459,6 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
       <td>pa</td>
       <td>pi</td>
       <td>pu</td>
@@ -500,13 +466,13 @@ th, td {
       <td>po</td>
     </tr>
     <tr>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>py</td>
+      <th rowspan="2">py</th>
       <td>ピャ</td>
       <td></td>
       <td>ピュ</td>
@@ -519,8 +485,6 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
       <td>pya</td>
       <td></td>
       <td>pyu</td>
@@ -528,13 +492,13 @@ th, td {
       <td>pyo</td>
     </tr>
     <tr>
-      <td>h</td>
+      <th rowspan="2">h</th>
       <td>ハ</td>
       <td>ヒ</td>
       <td></td>
       <td>ヘ</td>
       <td>ホ</td>
-      <td>b</td>
+      <th rowspan="2">b</th>
       <td>バ</td>
       <td>ビ</td>
       <td>ブ</td>
@@ -542,13 +506,11 @@ th, td {
       <td>ボ</td>
     </tr>
     <tr>
-      <td></td>
       <td>ha</td>
       <td>hi</td>
       <td></td>
       <td>he</td>
       <td>ho</td>
-      <td></td>
       <td>ba</td>
       <td>bi</td>
       <td>bu</td>
@@ -556,13 +518,13 @@ th, td {
       <td>bo</td>
     </tr>
     <tr>
-      <td>hy</td>
+      <th rowspan="2">hy</th>
       <td>ヒャ</td>
       <td></td>
       <td>ヒュ</td>
       <td>ヒェ</td>
       <td>ヒョ</td>
-      <td>by</td>
+      <th rowspan="2">by</th>
       <td>ビャ</td>
       <td></td>
       <td>ビュ</td>
@@ -570,13 +532,11 @@ th, td {
       <td>ビョ</td>
     </tr>
     <tr>
-      <td></td>
       <td>hya</td>
       <td></td>
       <td>hyu</td>
       <td>hye</td>
       <td>hyo</td>
-      <td></td>
       <td>bya</td>
       <td></td>
       <td>byu</td>
@@ -584,13 +544,13 @@ th, td {
       <td>byo</td>
     </tr>
     <tr>
-      <td>f</td>
+      <th rowspan="2">f</th>
       <td>ファ</td>
       <td>フィ</td>
       <td>フ</td>
       <td>フェ</td>
       <td>フォ</td>
-      <td>(v)</td>
+      <th rowspan="2">(v)</th>
       <td>ヴァ</td>
       <td>ヴィ</td>
       <td>ヴ</td>
@@ -598,13 +558,11 @@ th, td {
       <td>ヴォ</td>
     </tr>
     <tr>
-      <td></td>
       <td>fa</td>
       <td>fi</td>
       <td>fu</td>
       <td>fe</td>
       <td>fo</td>
-      <td></td>
       <td>(va)</td>
       <td>(vi)</td>
       <td>(vu)</td>
@@ -612,13 +570,13 @@ th, td {
       <td>(vo)</td>
     </tr>
     <tr>
-      <td>fy</td>
+      <th rowspan="2">fy</th>
       <td>フャ</td>
       <td></td>
       <td>フュ</td>
       <td>フィェ</td>
       <td>フョ</td>
-      <td>(vy)</td>
+      <th rowspan="2">(vy)</th>
       <td>ヴャ</td>
       <td></td>
       <td>ヴュ</td>
@@ -626,13 +584,11 @@ th, td {
       <td>ヴョ</td>
     </tr>
     <tr>
-      <td></td>
       <td>fya</td>
       <td></td>
       <td>fyu</td>
       <td>fye</td>
       <td>fyo</td>
-      <td></td>
       <td>(vya)</td>
       <td></td>
       <td>(vyu)</td>
@@ -640,13 +596,13 @@ th, td {
       <td>(vyo)</td>
     </tr>
     <tr>
-      <td>r</td>
+      <th rowspan="2">r</th>
       <td>ラ</td>
       <td>リ</td>
       <td>ル</td>
       <td>レ</td>
       <td>ロ</td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -654,7 +610,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>ra</td>
       <td>ri</td>
       <td>ru</td>
@@ -665,16 +620,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td>ry</td>
+      <th rowspan="2">ry</th>
       <td>リャ</td>
       <td></td>
       <td>リュ</td>
       <td>リェ</td>
       <td>リョ</td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -682,7 +636,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>rya</td>
       <td></td>
       <td>ryu</td>
@@ -693,16 +646,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td></td>
+      <th rowspan="2"></th>
       <td>ン</td>
       <td></td>
       <td>ッ</td>
       <td></td>
       <td></td>
-      <td></td>
+      <th rowspan="2"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -710,7 +662,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>n</td>
       <td></td>
       <td>q</td>
@@ -721,16 +672,15 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td></td>
+      <th rowspan="3"></th>
       <td>アー</td>
       <td>イー</td>
       <td>ウー</td>
       <td>エー</td>
       <td>オー</td>
-      <td></td>
+      <th rowspan="3"></th>
       <td></td>
       <td></td>
       <td></td>
@@ -738,7 +688,6 @@ th, td {
       <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>ā</td>
       <td>ī</td>
       <td>ū</td>
@@ -749,16 +698,13 @@ th, td {
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td></td>
       <td>(ah)</td>
       <td>(ih)</td>
       <td>(uh)</td>
       <td>(eh)</td>
       <td>(oh)</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
