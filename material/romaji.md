@@ -52,3 +52,24 @@ th, td {
 |    | ma | mi | mu | me | mo |
 | my |ミャ|    |ミュ|ミェ|ミョ|
 |    |mya |    |myu |mye |myo |
+|    |    |    |    |    |    | p  | パ | ピ | プ | ペ | ポ |
+|    |    |    |    |    |    |    | pa | pi | pu | pe | po |
+|    |    |    |    |    |    | py |ピャ|    |ピュ|ピェ|ピョ|
+|    |    |    |    |    |    |    |pya |    |pyu |pye |pyo |
+| h  | ハ | ヒ |    | ヘ | ホ | b  | バ | ビ | ブ | ベ | ボ |
+|    | ha | hi |    | he | ho |    | ba | bi | bu | be | bo |
+| hy |ヒャ|    |ヒュ|ヒェ|ヒョ| by |ビャ|    |ビュ|ビェ|ビョ|
+|    |hya |    |hyu |hye |hyo |    |bya |    |byu |bye |byo |
+| f  |ファ|フィ| フ |フェ|フォ|(v) |ヴァ|ヴィ| ヴ |ヴェ|ヴォ|
+|    | fa | fi | fu | fe | fo |    |(va)|(vi)|(vu)|(ve)|(vo)|
+| fy |フャ|    |フュ|フィェ|フョ|(vy)|ヴャ|    |ヴュ|ヴィェ|ヴョ|
+|    |fya |    |fyu |fye |fyo |    |(vya)|    |(vyu)|(vye)|(vyo)|
+| r  | ラ | リ | ル | レ | ロ |
+|    | ra | ri | ru | re | ro |
+| ry |リャ|    |リュ|リェ|リョ|
+|    |rya |    |ryu |rye |ryo |
+|    | ン |    | ッ |    |    |
+|    | n   |    | q  |    |    |
+|    |アー|イー|ウー|エー|オー|
+|    |  ā	|  ī |  ū |  ē |  ō |
+|    |(ah)|(ih)|(uh)|(eh)|(oh)|
