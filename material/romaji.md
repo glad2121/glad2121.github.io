@@ -491,5 +491,225 @@ th, td {
       <td>pye</td>
       <td>pyo</td>
     </tr>
+    <tr>
+      <th rowspan="2">h</th>
+      <td>ハ</td>
+      <td>ヒ</td>
+      <td></td>
+      <td>ヘ</td>
+      <td>ホ</td>
+      <th rowspan="2">b</th>
+      <td>バ</td>
+      <td>ビ</td>
+      <td>ブ</td>
+      <td>ベ</td>
+      <td>ボ</td>
+    </tr>
+    <tr>
+      <td>ha</td>
+      <td>hi</td>
+      <td></td>
+      <td>he</td>
+      <td>ho</td>
+      <td>ba</td>
+      <td>bi</td>
+      <td>bu</td>
+      <td>be</td>
+      <td>bo</td>
+    </tr>
+    <tr>
+      <th rowspan="2">hy</th>
+      <td>ヒャ</td>
+      <td></td>
+      <td>ヒュ</td>
+      <td>ヒェ</td>
+      <td>ヒョ</td>
+      <th rowspan="2">by</th>
+      <td>ビャ</td>
+      <td></td>
+      <td>ビュ</td>
+      <td>ビェ</td>
+      <td>ビョ</td>
+    </tr>
+    <tr>
+      <td>hya</td>
+      <td></td>
+      <td>hyu</td>
+      <td>hye</td>
+      <td>hyo</td>
+      <td>bya</td>
+      <td></td>
+      <td>byu</td>
+      <td>bye</td>
+      <td>byo</td>
+    </tr>
+    <tr>
+      <th rowspan="2">f</th>
+      <td>ファ</td>
+      <td>フィ</td>
+      <td>フ</td>
+      <td>フェ</td>
+      <td>フォ</td>
+      <th rowspan="2">(v)</th>
+      <td>ヴァ</td>
+      <td>ヴィ</td>
+      <td>ヴ</td>
+      <td>ヴェ</td>
+      <td>ヴォ</td>
+    </tr>
+    <tr>
+      <td>fa</td>
+      <td>fi</td>
+      <td>fu</td>
+      <td>fe</td>
+      <td>fo</td>
+      <td>(va)</td>
+      <td>(vi)</td>
+      <td>(vu)</td>
+      <td>(ve)</td>
+      <td>(vo)</td>
+    </tr>
+    <tr>
+      <th rowspan="2">fy</th>
+      <td>フャ</td>
+      <td></td>
+      <td>フュ</td>
+      <td>フィェ</td>
+      <td>フョ</td>
+      <th rowspan="2">(vy)</th>
+      <td>ヴャ</td>
+      <td></td>
+      <td>ヴュ</td>
+      <td>ヴィェ</td>
+      <td>ヴョ</td>
+    </tr>
+    <tr>
+      <td>fya</td>
+      <td></td>
+      <td>fyu</td>
+      <td>fye</td>
+      <td>fyo</td>
+      <td>(vya)</td>
+      <td></td>
+      <td>(vyu)</td>
+      <td>(vye)</td>
+      <td>(vyo)</td>
+    </tr>
+    <tr>
+      <th rowspan="2">r</th>
+      <td>ラ</td>
+      <td>リ</td>
+      <td>ル</td>
+      <td>レ</td>
+      <td>ロ</td>
+      <th rowspan="2"></th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ra</td>
+      <td>ri</td>
+      <td>ru</td>
+      <td>re</td>
+      <td>ro</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2">ry</th>
+      <td>リャ</td>
+      <td></td>
+      <td>リュ</td>
+      <td>リェ</td>
+      <td>リョ</td>
+      <th rowspan="2"></th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>rya</td>
+      <td></td>
+      <td>ryu</td>
+      <td>rye</td>
+      <td>ryo</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2"></th>
+      <td>ン</td>
+      <td></td>
+      <td>ッ</td>
+      <td></td>
+      <td></td>
+      <th rowspan="2"></th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>n</td>
+      <td></td>
+      <td>q</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="3"></th>
+      <td>アー</td>
+      <td>イー</td>
+      <td>ウー</td>
+      <td>エー</td>
+      <td>オー</td>
+      <th rowspan="3"></th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ā</td>
+      <td>ī</td>
+      <td>ū</td>
+      <td>ē</td>
+      <td>ō</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(ah)</td>
+      <td>(ih)</td>
+      <td>(uh)</td>
+      <td>(eh)</td>
+      <td>(oh)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
